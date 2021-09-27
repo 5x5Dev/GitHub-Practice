@@ -1,1 +1,2 @@
 This is the Original File
+ This is a direct edit to the txt file
